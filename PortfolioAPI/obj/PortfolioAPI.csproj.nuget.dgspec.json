@@ -1,0 +1,278 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Rajasekar\\Scanned document\\Professional Experience\\01 1.New Client\\Singapore\\GIC Tech - AvePoint\\PortfolioProject\\PortfolioAPI\\PortfolioAPI.csproj": {}
+  },
+  "projects": {
+    "D:\\Rajasekar\\Scanned document\\Professional Experience\\01 1.New Client\\Singapore\\GIC Tech - AvePoint\\PortfolioProject\\Portfolio.Core\\Portfolio.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Rajasekar\\Scanned document\\Professional Experience\\01 1.New Client\\Singapore\\GIC Tech - AvePoint\\PortfolioProject\\Portfolio.Core\\Portfolio.Core.csproj",
+        "projectName": "Portfolio.Core",
+        "projectPath": "D:\\Rajasekar\\Scanned document\\Professional Experience\\01 1.New Client\\Singapore\\GIC Tech - AvePoint\\PortfolioProject\\Portfolio.Core\\Portfolio.Core.csproj",
+        "packagesPath": "C:\\Users\\Rajasekar Kumaran\\.nuget\\packages\\",
+        "outputPath": "D:\\Rajasekar\\Scanned document\\Professional Experience\\01 1.New Client\\Singapore\\GIC Tech - AvePoint\\PortfolioProject\\Portfolio.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Rajasekar Kumaran\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Rajasekar\\Scanned document\\Professional Experience\\01 1.New Client\\Singapore\\GIC Tech - AvePoint\\PortfolioProject\\Portfolio.DB\\Portfolio.DB.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Rajasekar\\Scanned document\\Professional Experience\\01 1.New Client\\Singapore\\GIC Tech - AvePoint\\PortfolioProject\\Portfolio.DB\\Portfolio.DB.csproj",
+        "projectName": "Portfolio.DB",
+        "projectPath": "D:\\Rajasekar\\Scanned document\\Professional Experience\\01 1.New Client\\Singapore\\GIC Tech - AvePoint\\PortfolioProject\\Portfolio.DB\\Portfolio.DB.csproj",
+        "packagesPath": "C:\\Users\\Rajasekar Kumaran\\.nuget\\packages\\",
+        "outputPath": "D:\\Rajasekar\\Scanned document\\Professional Experience\\01 1.New Client\\Singapore\\GIC Tech - AvePoint\\PortfolioProject\\Portfolio.DB\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Rajasekar Kumaran\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Rajasekar\\Scanned document\\Professional Experience\\01 1.New Client\\Singapore\\GIC Tech - AvePoint\\PortfolioProject\\Portfolio.Service\\Portfolio.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Rajasekar\\Scanned document\\Professional Experience\\01 1.New Client\\Singapore\\GIC Tech - AvePoint\\PortfolioProject\\Portfolio.Service\\Portfolio.Service.csproj",
+        "projectName": "Portfolio.Service",
+        "projectPath": "D:\\Rajasekar\\Scanned document\\Professional Experience\\01 1.New Client\\Singapore\\GIC Tech - AvePoint\\PortfolioProject\\Portfolio.Service\\Portfolio.Service.csproj",
+        "packagesPath": "C:\\Users\\Rajasekar Kumaran\\.nuget\\packages\\",
+        "outputPath": "D:\\Rajasekar\\Scanned document\\Professional Experience\\01 1.New Client\\Singapore\\GIC Tech - AvePoint\\PortfolioProject\\Portfolio.Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Rajasekar Kumaran\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\Rajasekar\\Scanned document\\Professional Experience\\01 1.New Client\\Singapore\\GIC Tech - AvePoint\\PortfolioProject\\Portfolio.Core\\Portfolio.Core.csproj": {
+                "projectPath": "D:\\Rajasekar\\Scanned document\\Professional Experience\\01 1.New Client\\Singapore\\GIC Tech - AvePoint\\PortfolioProject\\Portfolio.Core\\Portfolio.Core.csproj"
+              },
+              "D:\\Rajasekar\\Scanned document\\Professional Experience\\01 1.New Client\\Singapore\\GIC Tech - AvePoint\\PortfolioProject\\Portfolio.DB\\Portfolio.DB.csproj": {
+                "projectPath": "D:\\Rajasekar\\Scanned document\\Professional Experience\\01 1.New Client\\Singapore\\GIC Tech - AvePoint\\PortfolioProject\\Portfolio.DB\\Portfolio.DB.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Rajasekar\\Scanned document\\Professional Experience\\01 1.New Client\\Singapore\\GIC Tech - AvePoint\\PortfolioProject\\PortfolioAPI\\PortfolioAPI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Rajasekar\\Scanned document\\Professional Experience\\01 1.New Client\\Singapore\\GIC Tech - AvePoint\\PortfolioProject\\PortfolioAPI\\PortfolioAPI.csproj",
+        "projectName": "PortfolioAPI",
+        "projectPath": "D:\\Rajasekar\\Scanned document\\Professional Experience\\01 1.New Client\\Singapore\\GIC Tech - AvePoint\\PortfolioProject\\PortfolioAPI\\PortfolioAPI.csproj",
+        "packagesPath": "C:\\Users\\Rajasekar Kumaran\\.nuget\\packages\\",
+        "outputPath": "D:\\Rajasekar\\Scanned document\\Professional Experience\\01 1.New Client\\Singapore\\GIC Tech - AvePoint\\PortfolioProject\\PortfolioAPI\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Rajasekar Kumaran\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\Rajasekar\\Scanned document\\Professional Experience\\01 1.New Client\\Singapore\\GIC Tech - AvePoint\\PortfolioProject\\Portfolio.Core\\Portfolio.Core.csproj": {
+                "projectPath": "D:\\Rajasekar\\Scanned document\\Professional Experience\\01 1.New Client\\Singapore\\GIC Tech - AvePoint\\PortfolioProject\\Portfolio.Core\\Portfolio.Core.csproj"
+              },
+              "D:\\Rajasekar\\Scanned document\\Professional Experience\\01 1.New Client\\Singapore\\GIC Tech - AvePoint\\PortfolioProject\\Portfolio.DB\\Portfolio.DB.csproj": {
+                "projectPath": "D:\\Rajasekar\\Scanned document\\Professional Experience\\01 1.New Client\\Singapore\\GIC Tech - AvePoint\\PortfolioProject\\Portfolio.DB\\Portfolio.DB.csproj"
+              },
+              "D:\\Rajasekar\\Scanned document\\Professional Experience\\01 1.New Client\\Singapore\\GIC Tech - AvePoint\\PortfolioProject\\Portfolio.Service\\Portfolio.Service.csproj": {
+                "projectPath": "D:\\Rajasekar\\Scanned document\\Professional Experience\\01 1.New Client\\Singapore\\GIC Tech - AvePoint\\PortfolioProject\\Portfolio.Service\\Portfolio.Service.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.19.5, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

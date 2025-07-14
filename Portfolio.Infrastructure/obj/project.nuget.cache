@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "4YYoPtIEZS5qdqsBjAEFJLBlqBlCF4pHUz8W8q0tTbxx4HI0jtU1UGS3z7Wo1miz+ND5RN7gsMwM18zcbGotpg==",
+  "success": true,
+  "projectFilePath": "D:\\Rajasekar\\Scanned document\\Professional Experience\\01 1.New Client\\Singapore\\GIC Tech - AvePoint\\PortfolioProject\\Portfolio.Infrastructure\\Portfolio.Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Rajasekar Kumaran\\.nuget\\packages\\microsoft.aspnetcore.http.abstractions\\2.3.0\\microsoft.aspnetcore.http.abstractions.2.3.0.nupkg.sha512",
+    "C:\\Users\\Rajasekar Kumaran\\.nuget\\packages\\microsoft.aspnetcore.http.features\\2.3.0\\microsoft.aspnetcore.http.features.2.3.0.nupkg.sha512",
+    "C:\\Users\\Rajasekar Kumaran\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\9.0.7\\microsoft.extensions.dependencyinjection.9.0.7.nupkg.sha512",
+    "C:\\Users\\Rajasekar Kumaran\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.7\\microsoft.extensions.dependencyinjection.abstractions.9.0.7.nupkg.sha512",
+    "C:\\Users\\Rajasekar Kumaran\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\9.0.7\\microsoft.extensions.logging.abstractions.9.0.7.nupkg.sha512",
+    "C:\\Users\\Rajasekar Kumaran\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512",
+    "C:\\Users\\Rajasekar Kumaran\\.nuget\\packages\\system.diagnostics.diagnosticsource\\9.0.7\\system.diagnostics.diagnosticsource.9.0.7.nupkg.sha512",
+    "C:\\Users\\Rajasekar Kumaran\\.nuget\\packages\\system.text.encodings.web\\8.0.0\\system.text.encodings.web.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -20,12 +20,15 @@ A .NET 8 Web API to manage investment portfolios and calculate performance over 
 ### Prerequisites
 
 - [.NET 8 SDK](https://dotnet.microsoft.com/download)
+- [VS2022](https://visualstudio.microsoft.com/downloads/)
 
 ### Run Locally
 
 ```bash
 dotnet run
 ```
+
+Open solution - .\PortfolioProject\PortfolioAPI\PortfolioAPI.sln
 
 Open browser at: `http://localhost:5000/swagger`
 
@@ -36,3 +39,15 @@ API is accessible at `http://localhost:8080/swagger`
 ```bash
 dotnet test
 ```
+
+## Sample Data
+
+refer - SampleIRequestResponse.md
+
+## Sample API Request
+
+- Add Portfolio
+- Add Asset
+- Add Transaction
+- Get Portfolios
+- Retrieve Portfolio Performance
